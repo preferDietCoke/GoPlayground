@@ -1,4 +1,4 @@
-package main
+package switchsmt
 
 // multiple imports
 import (
